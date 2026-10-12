@@ -1,0 +1,12 @@
+AI Tool Use
+
+Representative prompts provided to AI:
+
+- "Create a Bootstrap home page for the Peer Tutoring Hub with a meaningful title, one clear heading, a short service description, navigation links, and a relevant local image with accurate alternative text."
+- "Create a tutors page with a table that has a caption, table header, table body, Tutor Name and Course columns, and at least one sample tutor."
+- "Create a form that allows a student to request a tutoring session and submits to process-request.php using POST. Include labeled, required Course and Preferred Date fields and a Request Session submit button."
+- "Add a PHP opening tag and use echo to display a confirmation message. Do not add a closing PHP tag or read form values."
+
+How AI helped:
+
+AI helped create the responsive Bootstrap pages and shared CSS, add the sample tutor table and accessible request form, and write the PHP confirmation response. It also helped check that the pages link to the stylesheet and that key form and table requirements are present. I reviewed the generated content as part of building the project.
